@@ -48,15 +48,7 @@ The dataset contains population data by country, including:
 
 ---
 
-## 🖼 Sample Visualizations
 
-| Most Populous Countries | Population Growth Trend |
-|-------------------------|--------------------------|
-| ![bar chart](path/to/bar_chart.png) | ![line chart](path/to/line_chart.png) |
-
-> Replace these with your actual image links if you have uploaded images to your repo
-
----
 
 ## 🎥 Preview
 
