@@ -12,7 +12,7 @@ In this task, I performed Exploratory Data Analysis (EDA) on a **World Populatio
 - NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook / Google Colab
+- Google Colab
 
 ---
 
