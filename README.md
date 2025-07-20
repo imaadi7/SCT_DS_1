@@ -50,11 +50,6 @@ The dataset contains population data by country, including:
 
 
 
-## 🎥 Preview
-
-📽️ [Click here to watch the walkthrough video](put-your-YouTube-or-Drive-link-here)
-
----
 
 ## 📌 How to Run
 
